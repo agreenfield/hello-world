@@ -1,2 +1,3 @@
 # hello-world
-Yet another practice exercise
+
+Hi Humans! I like node.js and coffee. Love tacos too.
